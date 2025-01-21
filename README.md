@@ -1,3 +1,9 @@
+# [`My Personal Portifolio`](https://my-portifolio-six-gules.vercel.app/)
+
+![image](https://github.com/user-attachments/assets/31d3f215-c173-4676-b1c5-e5b8da17a11d)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
